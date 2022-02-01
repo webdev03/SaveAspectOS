@@ -5,6 +5,7 @@ text-align: center;
 }
 h1 {
 font-size: 100;
+padding-top: 100px;
 }
 .bordered {
 border-style: solid;
