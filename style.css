@@ -1,11 +1,11 @@
 body {
-text-align: center;
+ padding-top: 150px;
+ text-align: center;
  background-image: radial-gradient(#0E0F10,#090B2B);
  color: #FFFFFF;
 }
 h1 {
 font-size: 100;
-padding-top: 100px;
 }
 .bordered {
 border-style: solid;
