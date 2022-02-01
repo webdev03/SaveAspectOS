@@ -3,3 +3,6 @@ text-align: center;
  background-image: radial-gradient(#0E0F10,#090B2B);
  color: #FFFFFF;
 }
+h1 {
+font-size: 100;
+}
