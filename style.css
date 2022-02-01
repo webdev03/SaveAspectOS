@@ -3,11 +3,9 @@ body {
  text-align: center;
  background-image: radial-gradient(#0E0F10,#090B2B);
  color: #FFFFFF;
+ border-style: solid;
+ border-color: #ffffff;
 }
 h1 {
 font-size: 100;
-}
-.bordered {
-border-style: solid;
-border-color: #ffffff;
 }
