@@ -3,14 +3,12 @@ padding-top: 125px;
 text-align: center;
 background-image: radial-gradient(#0E0F10,#090B2B);
 color: #FFFFFF;
-}
-h1 {
-font-size: 100;
-}
-#bottom {
 border-style: inset;
 border-color: #ffffff;
 border-width: 10px;
+}
+h1 {
+font-size: 100;
 }
 .button {
 background-color: #ffffff;
