@@ -8,9 +8,9 @@ h1 {
 font-size: 100;
 }
 #bottom {
-padding-top: 100px;
 border-style: inset;
 border-color: #ffffff;
+border-width: thick;
 }
 .button {
 background-color: #ffffff;
