@@ -9,6 +9,8 @@ font-size: 100;
 }
 #bottom {
 padding-top: 100px;
+border-style: inset;
+border-color: #ffffff;
 }
 .button {
 background-color: #ffffff;
