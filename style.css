@@ -10,7 +10,7 @@ font-size: 100;
 #bottom {
 border-style: inset;
 border-color: #ffffff;
-border-width: thick;
+border-width: 20px;
 }
 .button {
 background-color: #ffffff;
