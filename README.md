@@ -2,7 +2,7 @@
 I've seen many #SaveAspectOS tags and just wanted to help out
 Dedicated to the AspectOS team and @AlGameDeveloper
 # Links:
-https://ilovetomakestuff.github.io/SaveAspectOS/
+https://ilovetomakestuff.github.io/SaveAspectOS/<br>or<br>
 https://save-aspect-os.vercel.app/
 # THIS IS UNDER HEAVY CONSTRUCTION!
 # A little Credit that is very noticeable
