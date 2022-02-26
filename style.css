@@ -1,8 +1,10 @@
 body {
  padding-top: 125px;
  text-align: center;
- background-image: url(https://cdn.glitch.me/ec7ce55c-e94d-4bac-a94f-9639f8fbd1d1%2Fa93513062000ccfbb18adecb46d61927.png?v=1638121829831);;
+ background-image: url(https://cdn.glitch.me/ec7ce55c-e94d-4bac-a94f-9639f8fbd1d1%2Fa93513062000ccfbb18adecb46d61927.png?v=1638121829831);
  color: #FFFFFF;
+ background-repeat: no-repeat;
+ background-position: center;
 }
 h1 {
  font-size: 100;
